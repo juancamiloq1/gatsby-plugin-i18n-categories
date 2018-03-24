@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-i18n-categories",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Multi language feature for Gatsby",
   "homepage": "https://github.com/juancamiloq1/gatsby-plugin-i18n-categories#readme",
   "scripts": {
